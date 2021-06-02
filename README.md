@@ -5,7 +5,7 @@ This repository includes all the unity3d project files for the VR steering metap
   2. *Gaze-directed* (Indicate direction with headset forward direction)
   3. *Torso-directed* (Indicate direction with tracker attached on the torso)
 
-# Target-Base-Techniques
+# Target-Based-Techniques
 
 This repository includes all the unity3d project files for the VR target-based locomotion techniques implementation. It includes three technique implementations: 
   1. *Motion* (Auto move by targeting)
